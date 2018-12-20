@@ -1,5 +1,5 @@
 # CS311
-UBC CS311 (Academic Usage Only) - Racket (Perl, Quipu, Continuation) and Rust
+UBC CS311 2018 (Academic Usage Only) - Racket (Perl, Quipu, Continuation) and Rust
 
 *Missing Assignment 5 & 6 files*
 
