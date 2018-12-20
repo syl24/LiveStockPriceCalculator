@@ -1,0 +1,8 @@
+Please fill out each TODO item in the header.Please don't reformat the HEADER area of this file, and change nothing except the TODOs, particularly nothing before the colon ":" on each line! We reserve the right to do (minor) point deductions for misformatted READMEs.IF MULTIPLE TEAM MEMBERS SUBMIT, ensure that all but one resubmit with nothing but a file named IGNORE.txt.===================== HEADER ========================Student #1, Name: Karan GroverStudent #1, ugrad.cs.ubc.ca Login: o4p0bStudent #1, Student Number: 18073156Student #2, Name: Pahul PanesarStudent #2, ugrad.cs.ubc.ca Login: x5m0bStudent #2, Student Number: 29390151Student #3, Name: Joshua CheungStudent #3, ugrad.cs.ubc.ca Login: b8p0bStudent #3, Student Number: 24202146Student #4, Name: Amelia MineStudent #4, ugrad.cs.ubc.ca Login: y9y0bStudent #4, Student Number: 38983169Student #5, Name: Seungyup LeeStudent #5, ugrad.cs.ubc.ca Login: c7a1bStudent #5, Student Number: 10177160Team name (for fun!): JPAKSAcknowledgment that you understand and have followed the course's collaboration policy (READ IT athttp://www.ugrad.cs.ubc.ca/~cs311/current/_syllabus.php#Collaboration_Policy):Signed: Karan - Pahul - Joshua - Amelia - Seungyup===================== LOGISTICS =====================Please fill in each of the following:Approximate hours on the project: apx 3 hrsAcknowledgment of assistance (per the collab policy!): yesFor teams, rough breakdown of work:
+
+We all tried our own, corrected each other.
+====================== THEORY =======================
+
+NONE THIS TIME! Remember to briefly explain your bonus answer if you
+solve the bonus problem (TODO #9).
+
