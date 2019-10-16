@@ -1,7 +1,5 @@
 # CS311
-UBC CS311 2018 (Academic Usage Only) - Racket (Perl, Quipu, Continuation) and Rust
-
-*Missing Assignment 5 & 6 files*
+UBC CS311 2018 - Racket (Perl, Quipu, Continuation) and Rust
 
 Contributors - Karan Grover, Pahul Panesar, Amelia Mine, Andrew Choi, Joshua Cheung (The biggest contributor, many thanks)
 
