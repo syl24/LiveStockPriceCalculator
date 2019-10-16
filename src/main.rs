@@ -24,8 +24,8 @@ fn get_most_recent_price(equity: &str ) -> f32 {
     Ok(v) => {
     let mut tmp_prices = v; 
     let length = tmp_prices.len();
-     println!("{}", "This is the most recent price");
-    println!("{:?}", tmp_prices[length - 1]);
+     println!("The most recent price is {:?}",  tmp_prices[length - 1]);
+    // println!("{:?}", tmp_prices[length - 1]);
     return tmp_prices[length - 1]; // get earliest price stock 
     },
     Err(_e) =>  return 0.00,
@@ -77,7 +77,7 @@ fn fetch(equity: &str) -> std::result::Result<Vec<f32>, reqwest::Error> {
     own_string.push_str(bor_string);
     let bor_string2: &str = "&interval=1min&apikey=IVO96IWUXGF22KP9";
     own_string.push_str(bor_string2); 
-    println!("{}", own_string);
+    //println!("{}", own_string);
     let json = |mut res : Response | {
         res.json::<Value>()
     };
@@ -118,7 +118,7 @@ fn main() {
         return;
     }
     let query = &args[1];
-    println!("{:?}", query);
+    println!("Retrieving stock prices from {:?}", query);
  let x = fetch(query);
 match x {
     Ok(res) => {
